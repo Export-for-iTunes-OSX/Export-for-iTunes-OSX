@@ -1,7 +1,7 @@
 # Export for iTunes – Music Library Exporter
 
 <p align="center">
-  <img src="https://static.macupdate.com/products/51324/l/export-for-itunes-logo.png?v=1656510744" width="200" alt="Export for iTunes icon"/>
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/55/d7/3955d748-4844-b4d8-ab19-5f42d48b5320/ExportForItunesIcon-0-0-85-220-0-6-0-2x.png/1200x630bb.png" width="200" alt="Export for iTunes icon"/>
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://static.macupdate.com/screenshots/331446/m/export-for-itunes-screenshot.png?v=1656510750" alt="Export for iTunes screenshot"/>
+  <img src="https://i.ytimg.com/vi/uyZPrm9Kla8/maxresdefault.jpg" alt="Export for iTunes screenshot"/>
 </p>
 
 ---
